@@ -1,4 +1,4 @@
-package com.demo.springboot.cloud.function;
+package dev.spring.boot.cloud.function;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -30,5 +30,3 @@ public class UserHandler {
 
     }
 }
-//org.springframework.cloud.function.adapter.aws.FunctionInvoker::handleRequest
-//com.demo.springboot.cloud.function.UserHandler

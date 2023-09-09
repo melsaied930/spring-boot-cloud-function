@@ -1,4 +1,4 @@
-package com.demo.springboot.cloud.function;
+package dev.spring.boot.cloud.function;
 
 public class User {
     private String id;

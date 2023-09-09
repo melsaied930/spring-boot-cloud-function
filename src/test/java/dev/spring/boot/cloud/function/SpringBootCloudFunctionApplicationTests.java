@@ -1,4 +1,4 @@
-package com.demo.springboot.cloud.function;
+package dev.spring.boot.cloud.function;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,15 +1,16 @@
-package com.demo.springboot.cloud.function;
+package dev.spring.boot.cloud.function;
 
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
-import java.util.concurrent.atomic.AtomicInteger;
 
 @Service
 public class UserService {
     public UserService() {
+        users.add(new User());
+        users.add(new User());
         users.add(new User());
     }
 
