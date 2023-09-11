@@ -12,10 +12,5 @@ public class SpringBootCloudFunctionApplication {
         SpringApplication.run(SpringBootCloudFunctionApplication.class, args);
     }
 }
+//SpringBootCloudFunction
 //org.springframework.cloud.function.adapter.aws.FunctionInvoker::handleRequest
-//
-//aws_iam_role
-//aws_iam_policy
-//aws_iam_role_policy_attachment
-//data"archive file"
-//aws_lambda_function

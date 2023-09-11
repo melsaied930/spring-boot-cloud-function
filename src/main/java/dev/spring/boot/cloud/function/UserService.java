@@ -10,8 +10,6 @@ import java.util.UUID;
 public class UserService {
     public UserService() {
         users.add(new User());
-        users.add(new User());
-        users.add(new User());
     }
 
     List<User> users = new ArrayList<>();

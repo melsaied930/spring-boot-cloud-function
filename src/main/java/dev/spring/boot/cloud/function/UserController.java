@@ -8,10 +8,10 @@ import java.util.function.Consumer;
 import java.util.function.Supplier;
 
 @Configuration
-public class UserHandler {
+public class UserController {
     private final UserService userService;
 
-    public UserHandler(UserService userService) {
+    public UserController(UserService userService) {
         this.userService = userService;
     }
 
